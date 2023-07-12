@@ -1,0 +1,9 @@
+  =>  Template Name    : Finanza - Financial Services Website Template
+
+  =>  Template Link    : https://samirsengupta.github.io/SamirSengupta//financial-services-website-template
+
+  =>  Template License : https://samirsengupta.github.io/SamirSengupta//license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://samirsengupta.github.io/SamirSengupta/
